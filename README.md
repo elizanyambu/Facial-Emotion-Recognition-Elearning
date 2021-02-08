@@ -1,4 +1,4 @@
 # Facial_Emotion_Recognition_Elearning
-Facial Emotion Recognition in E-Learning
+Facial Emotion Recognition in E-Learning: 
 The main idea of this paper is to improve and enhance the quality of e-learning by detecting and monitoring students' emotions and providing quick feedback to teachers.  Emotions such as happiness, sadness, anger, disgust, fear, surprise and neutral are evaluated in this research. Artificial neural networks are used to identify and classify the different emotions in order to evaluate the level of understanding in the e-learning classes attended. Finally, the emotion artificial intelligence system provides feedback (in the form of a histogram plot) to the teacher about the most frequently occurring emotion. The teacher can then adjust the teaching strategy accordingly. By continuously receiving feedback on the current level of learning, the teacher can improve the learning performance. 
 
