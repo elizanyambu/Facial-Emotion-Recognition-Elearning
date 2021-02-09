@@ -10,6 +10,7 @@ First, download the publicly available FER-2013 Dataset
 
 Then run the preprocessing.py file. After running fadataX.npy and flabels.npy files are generated (these file makes it easier for later)
 
-Run the fertrain.py file (its recommended to us GPU, CPU takes way too long). This then creates modXtest.npy, modytest,npy, fer.json, fer.h5 file. Fruthermore a summary history of the accuracy and loss are plotted and saved as .png
+Run the fertrain.py and then fertrain.py (its recommended to us GPU, CPU takes way too long). This then creates modXtest.npy, modytest,npy, fer.json, fer.h5 file. Fruthermore a summary history of the accuracy and loss are plotted and saved as .png
+
 
 Run confmatrix.py file to get the confusion matrix. The most confused expressions are plotted and saved as .png
